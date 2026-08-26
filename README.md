@@ -13,7 +13,7 @@
 
 
 #### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camryn_lucian)   ![linkedin.com/in/m-awal-putera-anugrah-1300a7423](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camryn_lucian)   [![linkedin.com/in/m-awal-putera-anugrah-1300a7423](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/m-awal-putera-anugrah-1300a7423)
 
 
 #### 💻 Tech Stack:
