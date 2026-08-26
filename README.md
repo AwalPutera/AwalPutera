@@ -1,6 +1,6 @@
 ## Hello World🌏, I'm M. Awal Putera 👋
 
-![Awal Putera](img/baner.jpeg)
+![Awal Putera](img/github-header-banner.png)
 
 <!--
 **AwalPutera/AwalPutera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about game
-- ⚡ Fun fact:  I'm a chocolate lover.
+"Masa depan adalah sesuatu yang kamu buat sendiri, bukan sesuatu yang diberikan kepada kamu." (Kira Yamato - Gundam SEED).
 
 ![Gundam](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl5NjN0d2M0M2oycGhnOXZ5Z2NyeHJ5aTMzaHgyczBvYWkzN3BvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HWYUWXo68khJS/giphy.gif)
