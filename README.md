@@ -1,5 +1,7 @@
 ## Hello World🌏, I'm M. Awal Putera 👋
 
+![Awal Putera](img/baner.jpeg)
+
 <!--
 **AwalPutera/AwalPutera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
